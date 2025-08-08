@@ -37,7 +37,7 @@ class AppTheme {
     ),
     scaffoldBackgroundColor: Colors.black,
     appBarTheme: const AppBarTheme(
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.black26,
       foregroundColor: Colors.white,
       elevation: 0,
     ),

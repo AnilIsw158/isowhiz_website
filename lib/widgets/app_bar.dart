@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:isowhiz_website/widgets/app_typography.dart';
+import 'package:isowhiz_website/theme/app_typography.dart';
 import 'package:isowhiz_website/widgets/custom_text.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {

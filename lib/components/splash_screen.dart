@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen>
       if (!mounted) return; // ✅ Safe navigation
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (_) => const HomePage()),
+        MaterialPageRoute(builder: (_) => const SplashScreen()),
       );
     });
   }
